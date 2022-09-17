@@ -7,7 +7,7 @@ public class StatMem {
 	public static int c;
 	
 	static int Addition() {
-		a = 2;
+		a = 20;
 		b = 5;
 		c = 6;
 		return a+b+c;
